@@ -7,3 +7,5 @@ git add README.md
 git commit -m "Update README with live GitHub Pages link"
 git push
 
+## 🌐 Project Page
+[https://kurisani19.github.io/My-CV-code/](https://kurisani19.github.io/My-CV-code/)

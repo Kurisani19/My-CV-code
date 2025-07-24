@@ -8,7 +8,8 @@ This is my CV built with HTML.
 
 https://kurisani19.github.io/My-CV-code/
 
-Project URL: https://kurisani19.github.io/My-CV-code/
+project URL: https://kurisani19.github.io/My-CV-code/
+
 
 
 [Live Project](https://kurisani19.github.io/My-CV-code/)

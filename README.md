@@ -9,3 +9,5 @@ git push
 
 ## 🌐 Project Page
 [https://kurisani19.github.io/My-CV-code/](https://kurisani19.github.io/My-CV-code/)
+
+[Live Project](https://kurisani19.github.io/My-CV-code/)
